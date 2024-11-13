@@ -13,14 +13,15 @@ Pour exécuter le code, voici les étapes :
 4. Pour installer les dépendances :
     
     npm install
+   
     npm install chart.js react-chartjs-2
     
 
-5. Pour lancer le code :
+6. Pour lancer le code :
     
     npm run dev
     
 
-6. Aller sur le lien indiqué dans le terminal.
+7. Aller sur le lien indiqué dans le terminal.
 
 ---
